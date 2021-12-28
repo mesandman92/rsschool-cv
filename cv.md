@@ -1,5 +1,4 @@
 ## Uladzimir Herman
----
 #### Junior Frontend Developer
 ***
 #### Contact information:
