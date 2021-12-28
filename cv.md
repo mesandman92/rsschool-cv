@@ -25,11 +25,15 @@ I believe, that my ability to self-education, gain new skills and addiction to s
 * Javascript
 * Git, Github
 * VS Code
+
 ---
+
 #### Courses: 
 * JavaScript Manual on learnjavascript.ru
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
 ---
+
 #### Code example:
 **Problem**:If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
@@ -51,7 +55,8 @@ function solution(number){
   return sum;
 }
 ```
-____
+---
+
 #### Languages:
 
 * **English** - Intermediate/Upper-intermediate
