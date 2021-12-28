@@ -53,6 +53,5 @@ ____
 #### Languages:
 
 * **English** - Intermediate/Upper-intermediate
-![efset_percentage](/rsschool-cv/img/efset_percentage.png)
+![efset_percentage](https://github.com/mesandman92/rsschool-cv/raw/gh-pages/img/efset_percentage.png)
 * **Russian** - native
-
